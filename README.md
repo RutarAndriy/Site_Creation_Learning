@@ -1,2 +1,2 @@
-# [Web Application](https://rutarandriy.github.io/Web_Application/ "Site on GitHub Pages")
-Web application - an example of creating a simple site
+# [Site_Creation_Learning](https://rutarandriy.github.io/Site_Creation_Learning/ "Site on GitHub Pages")
+Site_Creation_Learning - learning the basics of building simple sites
